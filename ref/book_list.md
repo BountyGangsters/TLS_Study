@@ -1,21 +1,22 @@
 ### BOOK LIST
-- ¿ÍÀÌ¾î»şÅ© ³×Æ®¿öÅ© ¿ÏÀüºĞ¼®
-- ½Ç¿ë¾ÏÈ£ÇĞ
-- (OpenSSÀ» È°¿ëÇÑ) ÄÄÇ»ÅÍ ½Ã½ºÅÛ º¸¾È
-- ¾Ë±â ½¬¿î Á¤º¸º¸È£°³·Ğ
-- Á¤º¸º¸È£·Ğ
-- ¿ÀÇÂ½ºÅÃ º¸¾È°¡ÀÌµå
+- ì™€ì´ì–´ìƒ¤í¬ ë„¤íŠ¸ì›Œí¬ ì™„ì „ë¶„ì„
+- ì‹¤ìš©ì•”í˜¸í•™
+- (OpenSSì„ í™œìš©í•œ) ì»´í“¨í„° ì‹œìŠ¤í…œ ë³´ì•ˆ
+- ì•Œê¸° ì‰¬ìš´ ì •ë³´ë³´í˜¸ê°œë¡ 
+- ì •ë³´ë³´í˜¸ë¡ 
+- ì˜¤í”ˆìŠ¤íƒ ë³´ì•ˆê°€ì´ë“œ
+- ì •ë³´ë³´ì•ˆì‚°ì—…ê¸°ì‚¬ í•œ ê¶Œì— ëë‚´ê¸° í•µì‹¬ì„ ì¡ì•„ë¼
 
 ### BLOG LIST
-- [TLS/SSL Handshake¶õ](https://hanjungv.github.io/2017-11-07-1_CS_SSL/)
-- [1Àå ¾ÏÈ£ÀÇ ¼¼°è](http://www.parkjonghyuk.net/lecture/2011-1st-lecture/modernCrypto/chap14.pdf)
-- [Á¤º¸Åë½Å±â¼ú¿ë¾îÇØ¼³ - SSL/TSL](http://www.ktword.co.kr/abbr_view.php?m_temp1=1957)
-- [IBM Knowledge Center SSL ¶Ç´Â TLS µ¥ÀÌÅÍ ±³È¯ÀÇ °³¿ä](https://www.ibm.com/support/knowledgecenter/ko/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm)
-- [TLS/SSL¿¡ ´ëÇØ ¾Ë¾Æº¸¾Æ¿ä~](http://btsweet.blogspot.kr/2014/06/tls-ssl.html)
-- [SSL/TLS ±âº»](https://eastdg.wordpress.com/2014/04/09/ssltls-%EA%B8%B0%EB%B3%B8/)
-- [IBM Knowledge Center SSL ¹× TLS °³³ä](https://www.ibm.com/support/knowledgecenter/ko/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10640_.htm)
-- [SSL, TLSÀÇ °³³ä](http://hack-cracker.tistory.com/142)
-- [Á¤º¸º¸¾È-SSL ÀÌ¶õ](http://12bme.tistory.com/80)
-- [AnhLab SSL/TLS º¸¾È ÇÁ·ÎÅäÄİ ¼³¸í](http://v3.nonghyup.com/secu_info_view.asp?list=/secu_info_list.asp&seq=8749&pageno=62&v_num=443)
-- [SSL°ú TLSv1ÀÇ Â÷ÀÌÁ¡ ¹× Á¤ÀÇ, ¶æ, Æ¯¼º, Àû¿ë](http://soul0.tistory.com/214)
-- [TLS ÇÁ·ÎÅäÄİ](http://marcof.tistory.com/87)
+- [TLS/SSL Handshakeë€](https://hanjungv.github.io/2017-11-07-1_CS_SSL/)
+- [1ì¥ ì•”í˜¸ì˜ ì„¸ê³„](http://www.parkjonghyuk.net/lecture/2011-1st-lecture/modernCrypto/chap14.pdf)
+- [ì •ë³´í†µì‹ ê¸°ìˆ ìš©ì–´í•´ì„¤ - SSL/TSL](http://www.ktword.co.kr/abbr_view.php?m_temp1=1957)
+- [IBM Knowledge Center SSL ë˜ëŠ” TLS ë°ì´í„° êµí™˜ì˜ ê°œìš”](https://www.ibm.com/support/knowledgecenter/ko/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm)
+- [TLS/SSLì— ëŒ€í•´ ì•Œì•„ë³´ì•„ìš”~](http://btsweet.blogspot.kr/2014/06/tls-ssl.html)
+- [SSL/TLS ê¸°ë³¸](https://eastdg.wordpress.com/2014/04/09/ssltls-%EA%B8%B0%EB%B3%B8/)
+- [IBM Knowledge Center SSL ë° TLS ê°œë…](https://www.ibm.com/support/knowledgecenter/ko/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10640_.htm)
+- [SSL, TLSì˜ ê°œë…](http://hack-cracker.tistory.com/142)
+- [ì •ë³´ë³´ì•ˆ-SSL ì´ë€](http://12bme.tistory.com/80)
+- [AnhLab SSL/TLS ë³´ì•ˆ í”„ë¡œí† ì½œ ì„¤ëª…](http://v3.nonghyup.com/secu_info_view.asp?list=/secu_info_list.asp&seq=8749&pageno=62&v_num=443)
+- [SSLê³¼ TLSv1ì˜ ì°¨ì´ì  ë° ì •ì˜, ëœ», íŠ¹ì„±, ì ìš©](http://soul0.tistory.com/214)
+- [TLS í”„ë¡œí† ì½œ](http://marcof.tistory.com/87)
