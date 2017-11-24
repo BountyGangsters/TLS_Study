@@ -24,3 +24,4 @@
 - [안전 소켓 계층과 전송 계층 보안](http://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwj7qrCLuNbXAhWHU7wKHUbXCkUQFghMMAc&url=http%3A%2F%2Fpel.smuc.ac.kr%2Fphpbb%2Fdownload%2Ffile.php%3Fid%3D6%26sid%3Dd692b007f1a6e771dfa83172622db9e2&usg=AOvVaw36e2uJpdCuiJLS34RPkzX6)
 - [SSL/TLS의 성능 향상 및 기능성 확장모듈과 안정성 강화 모듈 개발 - 연구보고서](http://www.itfind.or.kr/Report/200201/KISA/KISA-0138/KISA-0138.pdf)
 - [SSL/TLS PPT](http://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&ved=0ahUKEwjG8-OJw9bXAhWFgLwKHaWsD7k4ChAWCCcwAQ&url=http%3A%2F%2Fnetwk.hannam.ac.kr%2Fdata%2FCryptography%2520and%2520Network%2520Security%2Fch-17.ppt&usg=AOvVaw2k0bdI7atzaEqvhr2r8O96)
+- [SSL RECORD FORMAT](https://www.ibm.com/support/knowledgecenter/SSB23S_1.1.0.11/com.ibm.ztpf-ztpfdf.doc_put.11/gtps5/s5rcd.html)
