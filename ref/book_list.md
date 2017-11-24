@@ -20,4 +20,4 @@
 - [AnhLab SSL/TLS 보안 프로토콜 설명](http://v3.nonghyup.com/secu_info_view.asp?list=/secu_info_list.asp&seq=8749&pageno=62&v_num=443)
 - [SSL과 TLSv1의 차이점 및 정의, 뜻, 특성, 적용](http://soul0.tistory.com/214)
 - [TLS 프로토콜](http://marcof.tistory.com/87)
-- [SSL 통신 구조] (http://happydal.blogspot.kr/2010/08/ssl-%ED%86%B5%EC%8B%A0-%EA%B5%AC%EC%A1%B0.html#!/2010/08/ssl-%ED%86%B5%EC%8B%A0-%EA%B5%AC%EC%A1%B0.html)
+- [SSL 통신 구조](http://happydal.blogspot.kr/2010/08/ssl-%ED%86%B5%EC%8B%A0-%EA%B5%AC%EC%A1%B0.html#!/2010/08/ssl-%ED%86%B5%EC%8B%A0-%EA%B5%AC%EC%A1%B0.html)
