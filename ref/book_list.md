@@ -22,4 +22,4 @@
 - [TLS 프로토콜](http://marcof.tistory.com/87)
 - [SSL 통신 구조](http://happydal.blogspot.kr/2010/08/ssl-%ED%86%B5%EC%8B%A0-%EA%B5%AC%EC%A1%B0.html#!/2010/08/ssl-%ED%86%B5%EC%8B%A0-%EA%B5%AC%EC%A1%B0.html)
 - [안전 소켓 계층과 전송 계층 보안](http://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwj7qrCLuNbXAhWHU7wKHUbXCkUQFghMMAc&url=http%3A%2F%2Fpel.smuc.ac.kr%2Fphpbb%2Fdownload%2Ffile.php%3Fid%3D6%26sid%3Dd692b007f1a6e771dfa83172622db9e2&usg=AOvVaw36e2uJpdCuiJLS34RPkzX6)
-- [SSL/TLS의 성능 향상 및 기능성 확장모듈과 안정성 강화 모듈 개발 - 연구보고서](http://www.itfind.or.kr/Report/200201/KISA/KISA-0138/KISA-0138.pdf) ->  좀 옛날 자료이긴 한데 도움될 것 같아서
+- [SSL/TLS의 성능 향상 및 기능성 확장모듈과 안정성 강화 모듈 개발 - 연구보고서](http://www.itfind.or.kr/Report/200201/KISA/KISA-0138/KISA-0138.pdf)
